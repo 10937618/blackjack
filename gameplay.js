@@ -13,7 +13,7 @@ async function getDeck() {
   deckId = deckDetails.deck_id;
 }
 
-getDeck();
+getDeck(); 
 
 
 
